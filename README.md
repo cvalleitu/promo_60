@@ -6,3 +6,5 @@ estoy aprendiendo git
 sigo aprendiendo git
 
 y añado más cosas para ver el proceso
+
+hola soy Romina!!
